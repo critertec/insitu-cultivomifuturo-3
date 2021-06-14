@@ -1,0 +1,116 @@
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.bg_personaje {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 0;
+  width: 25%;
+}
+.bg_footer {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+#footer_welcome {
+  background-image:  url(../../assets/vectores/PC_FONDO_BARRA.svg);
+  left: 0;
+  padding-bottom: calc(5% * 636 / 470);
+}
+
+.luisa_welcome {
+  background-image: url(../../assets/personajes/PC_YEINER_SONRISA.svg);
+  left: 0;
+  padding-bottom: calc(19% * 636 / 470);
+}
+.yeiner_welcome {
+  background-image:  url(../../assets/personajes/PC_HMNOS_SONRISA.svg);
+  right: 0;
+  padding-bottom: calc(19% * 754 / 597);
+}
+.luisa_ohh {
+  background-image:  url(../../assets/personajes/PC_HMNOS_SONRISA.svg);
+  left: 0;
+  padding-bottom: calc(19% * 636 / 470);
+}
+.luisa_speak {
+  background-image: url(../../assets/personajes/PC_YEINER_HABLANDO_1.svg);
+  left: 0;
+  padding-bottom: calc(19% * 636 / 470);
+}
+.yeiner_ohh {
+  background-image:  url(../../assets/personajes/PC_HMNOS_HABLANDO_2.svg);
+  right: 0;
+  padding-bottom: calc(19% * 754 / 597);
+}
+.yeiner_speak {
+  background-image:  url(../../assets/personajes/PC_HMNOS_HABLANDO_2.svg);
+  right: 0;
+  padding-bottom: calc(19% * 754 / 597);
+}
+
+#luisa_atras {
+  background-image: url(../../assets/personajes/LUISA_1.png);
+  left: 0;
+  padding-bottom: calc(25% * 636 / 470);
+}
+#yeiner_atras {
+  background-image: url(../../assets/personajes/YEINER_1.png);
+  right: 0;
+  padding-bottom: calc(25% * 754 / 597);
+}
+#lilia_frente {
+  background-image: url(../../assets/personajes/LILIA_1.png);
+  right: 0;
+  width: 30%;
+  padding-bottom: calc(30% * 713 / 649);
+}
+#luisa_frente {
+  background-image: url(../../assets/personajes/LUISA_2.png);
+  left: 0;
+  width: 30%;
+  padding-bottom: calc(30% * 725 / 604);
+}
+#yeiner_frente {
+  background-image: url(../../assets/personajes/YEINER_2.png);
+  right: 0;
+  width: 30%;
+  padding-bottom: calc(30% * 721 / 615);
+}
+
+#footer_correcto {
+  background-image: url(../../assets/vectores/VECT_FONDO_CORRECTO_PC.svg);
+  width: 100%;
+  padding-bottom: calc(100% * 250 / 1380);
+}
+#footer_incorrecto {
+  background-image: url(../../assets/vectores/VECT_FONDO_INCORRECTO_PC.svg);
+  width: 100%;
+  padding-bottom: calc(100% * 250 / 1380);
+}
+#footer_final {
+  background-image: url(../../assets/vectores/VECT_FONDO_ENDGAME_PC.svg);
+  width: 100%;
+  padding-bottom: calc(100% * 250 / 1380);
+}
+@media (max-width: 720px) {
+  #footer {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+  }
+  .bg_personaje {
+    position: relative;
+  }
+}
+@media (max-width: 420px) {
+  .bg_personaje {
+    position: relative;
+  }
+
+}

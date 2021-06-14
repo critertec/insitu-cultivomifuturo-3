@@ -1,0 +1,841 @@
+{
+    "info": {
+        "title": "Interferencia Convivencia",
+        "sub-title": "Instrucciones",
+        "body-1": "A los hermanos de Yeiner se les dificulta ser empáticos para hacer nuevos amigos, debido a que no entienden las necesidades de las personas con las que hablan y siempre reaccionan impulsivamente.",
+        "placeholder": "PLACEHOLDER IMG EXPLICATIVA",
+        "body-2": "Por eso Yeiner ha convocado a sus seguidores a compartir las frases que más escuchan día a día y terminan en discusiones a través del hashtag #InterefenciaConvivencia; de esta manera, podrá enseñarle a sus hermanos a comunicarse mejor.",
+        "body-3": "Ayúdalos a analizar las publicaciones que han recibido para identificar las mejores maneras de reaccionar y las verdaderas necesidades que se quieren expresar.  "
+    },
+    "question": {
+        "1": {
+            "person": "Karol Cáceres",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido.",
+                "intro": "Miren. Karol nos cuenta su historia.",
+                "options": {
+                    "first": {
+                        "title": "Me lo tomaría personal y diría que sí soy eso.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "¡Pilas! Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "Me defendería y le echaría la culpa a quien me dijo eso.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Pilas! Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "three": {
+                        "title": "Trataría de descubrir lo que siente y necesita la otra persona.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "¡Buena jugada! Es raro que las personas hagan esto, pero es muy efectivo si queremos disminuir las críticas y los malentendidos. Si lo aplicamos crearemos mejores relaciones con los demás."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Obvio no!",
+                            "body": "Quiero hacer algo divertido y tener más amigos."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Diversión",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Es verdad!",
+                            "body": "Quiero hacer algo divertido y tener más amigos."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "three": {
+                        "title": "Descanso",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Obvio no!",
+                            "body": "Quiero hacer algo divertido y tener más amigos."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "2": {
+            "person": "Nataly García",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Mi mamá me dice seguido: Me da mucho mal genio que deje cosas sobre la mesa justo cuando vamos a comer. Usted es muy desconsiderada.",
+                "intro": "Mira lo que escribió Nataly. ¿Cómo reaccionarían ustedes si alguien les dijera eso?",
+                "options": {
+                    "first": {
+                        "title": "¡Es verdad! Yo soy la desordenada de esta familia.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "¡Pilas! Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "Conmigo no se desquite mamá que yo siempre hago lo que usted dice.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "¡Cuidado! Si nos defendemos y contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Entiendo que estés molesta, pero no me di cuenta que ya era hora de comer.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "¡Ya estás entendiendo! Si descubres las emociones ajenas, podrás evitar críticas y malentendidos para crear mejores relaciones."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Mi mamá me dice seguido: Me da mucho mal genio que deje cosas sobre la mesa justo cuando vamos a comer. Usted es muy desconsiderada.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Descanso",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Nop!",
+                            "body": "Mi mamá quería orden en la mesa para poder comer tranquila."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Orden",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Obvio!",
+                            "body": "Mi mamá quería orden en la mesa para poder comer tranquila."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "three": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡¡Nop!",
+                            "body": "Mi mamá quería orden en la mesa para poder comer tranquila."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "3": {
+            "person": "Yeison Cárdenas",
+            "a": {
+                "header": "¡Hola!",
+                "body": "Justo ayer discutí con mi novia. Me dijo: Eres el más terco y egocéntrico de la vereda. Crees que siempre tienes la razón.",
+                "intro": "Yeison nos escribe. ¿Qué harían ustedes?",
+                "options": {
+                    "first": {
+                        "title": "¡Así soy yo! Me gusta hacer lo que se me antoja.",
+                        "retroalimentacion": {
+                            "title": "¡Oshhh!",
+                            "body": "Este tipo de actitudes defensivas hacen que nadie se nos quiera acercar y cierra cualquier posibilidad de diálogo."
+                        }
+                    },
+                    "second": {
+                        "title": "No creo que sea tan terco como tú. Siempre debo aceptar lo que dices.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "No sabía que pensabas eso de mí, solo trato de hacer lo que siento que está bien.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "¡Hola!",
+                "body": "Justo ayer discutí con mi novia. Me dijo: Eres el más terco y egocéntrico de la vereda. Crees que siempre tienes la razón.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Es verdad!",
+                            "body": "Me preocupé tanto en tener la razón, que no le pregunté qué pensaba ella. Ahora no me quiere ni ver."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "second": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Creo que no!",
+                            "body": "Buscaba que la escuchara. Me preocupé tanto en tener la razón, que no le pregunté qué pensaba. Ahora no me quiere ni ver."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "three": {
+                        "title": "Diversión",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Creo que no!",
+                            "body": "Buscaba que la escuchara. Me preocupé tanto en tener la razón, que no le pregunté qué pensaba. Ahora no me quiere ni ver."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "first",
+                    "pounts": 50
+                }
+            }
+        },
+        "4": {
+            "person": "Yair Ahue",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Oiga la gente si pelea por bobadas. Yo estoy discutiendo con una amiga porque me dijo: ¡Inmaduro! Me molesta que no sea capaz de cumplir lo que promete.",
+                "intro": "Miren. Yair nos cuenta su historia. ¿Cómo reaccionarían?",
+                "options": {
+                    "first": {
+                        "title": "Creo que aún me falta crecer un poco, pero así soy feliz.",
+                        "retroalimentacion": {
+                            "title": "¡Pilas!",
+                            "body": "Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "Mira quien habla de madurez. Si soy mayor que tú por 2 años.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Lo siento. Trato de hacer mi mejor esfuerzo para cumplir lo que prometí.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Oiga la gente si pelea por bobadas. Yo estoy discutiendo con una amiga porque me dijo: ¡Inmaduro! Me molesta que no sea capaz de cumplir lo que promete.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Orden",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso!",
+                            "body": "Yo soy ordenado. Mi amiga solo quiere que yo me comprometa para que pueda confiar en mí."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Tienes razón!",
+                            "body": "Mi amiga solo quiere que yo me comprometa para que pueda confiar en mí."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "three": {
+                        "title": "Diversión",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso!",
+                            "body": "Mi amiga solo quiere que yo me comprometa para que pueda confiar en mí."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "5": {
+            "person": "Gustavo Salamanca",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Esta mañana me dijo mi sobrino: ¡Desconsiderado! No me aguanto más la bulla que hace en las noches. No pudimos dormir.",
+                "intro": "Nos escribe Gustavo. ¿Qué harían ustedes?",
+                "options": {
+                    "first": {
+                        "title": "Tienes razón. Pero nadie piensa en lo que a mi me gusta.",
+                        "retroalimentacion": {
+                            "title": "¡Pilas!",
+                            "body": "Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "No sea cansón que solo fue un rato. Además siempre me aguanto su desorden.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Tienes razón. Lo hice porque me sentía un poco deprimido.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Esta mañana me dijo mi sobrino: ¡Desconsiderado! No me aguanto más la bulla que hace en las noches. No pudimos dormir.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No es eso!",
+                            "body": "Por estar pendiente de mis sentimientos no me fijé que mi sobrino y mi hermana necesitaban descansar."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Descanso",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Es verdad!",
+                            "body": "Por estar pendiente de mis sentimientos no me fijé que mi sobrino y mi hermana necesitaban descansar."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "three": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No es eso!",
+                            "body": "Por estar pendiente de mis sentimientos no me fijé que mi sobrino y mi hermana necesitaban descansar."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "6": {
+            "person": "Ximena Tapia",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "¡Qué fastidio! Mi novio me trata de perezosa porque no le digo 'sí' a los planes que inventa con sus amigos.",
+                "intro": "Miren lo que dice Ximena. ¿Qué harían ustedes?",
+                "options": {
+                    "first": {
+                        "title": "Tal vez sí... soy perezosa después de todo.",
+                        "retroalimentacion": {
+                            "title": "¡Pilas!",
+                            "body": "Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "¡Qué fastidio usted todo el tiempo pegado a sus amigos!",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Te acompañaría, pero no me gustan ese tipo de planes.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "¡Qué fastidio! Mi novio me trata de perezosa porque no le digo 'sí' a los planes que inventa con sus amigos.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No lo creo!",
+                            "body": "Mi novio solo se quería divertir un rato conmigo y con sus amigos."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No lo creo!",
+                            "body": "Mi novio solo se quería divertir un rato conmigo y con sus amigos."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "three": {
+                        "title": "Diversión",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No había caído en cuenta!",
+                            "body": "Mi novio solo se quería divertir un rato conmigo y con sus amigos."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            }
+        },
+        "7": {
+            "person": "Pedro Carmona",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Yo creo que la embarré feo con mi novia. El lunes me escribió: 'Esperaba que por lo menos me llamaras en mi cumpleaños, pero veo que tenías mejores cosas que hacer'.",
+                "intro": "¡Pedro nos ha escrito! ¿Qué opinan?",
+                "options": {
+                    "first": {
+                        "title": "Sabes que últimamente ando muy ocupado.",
+                        "retroalimentacion": {
+                            "title": "¡Pilas!",
+                            "body": "Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
+                        }
+                    },
+                    "second": {
+                        "title": "No recordaba la fecha. Además no tenía minutos.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Sé que esperabas mi llamada, pero lo olvidé por completo.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Yo creo que la embarré feo con mi novia. El lunes me escribió: 'Esperaba que por lo menos me llamaras en mi cumpleaños, pero veo que tenías mejores cosas que hacer'.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Es verdad!",
+                            "body": "Creo que mi novia necesita más atención y cuidado de mi parte."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "second": {
+                        "title": "Orden",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Nop!",
+                            "body": "Creo que mi novia necesita más atención y cuidado de mi parte."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "three": {
+                        "title": "Descanso",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Nop!",
+                            "body": "Creo que mi novia necesita más atención y cuidado de mi parte."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "first",
+                    "pounts": 50
+                }
+            }
+        },
+        "8": {
+            "person": "Lina Monsalve",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Yo estoy cansada de escuchar la cantaleta de mi novio: 'Esta semana te estuviste viendo con tus amigas todas las tardes. Veo que ellas te importan más que yo. ¡Insensible!'",
+                "intro": "Aquí está la historia de Lina. ¿Cómo reaccionarían ustedes?",
+                "options": {
+                    "first": {
+                        "title": "Así me conociste: ¡Insensible!",
+                        "retroalimentacion": {
+                            "title": "¡Oshhh!",
+                            "body": "Este tipo de actitudes defensivas hacen que nadie se nos quiera acercar y cierra cualquier posibilidad de diálogo."
+                        }
+                    },
+                    "second": {
+                        "title": "¡Insensible tú! ¿Cómo yo no te digo nada cuando te pierdes con tus amigos?",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado! ",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Esa actitud me hace pensar que ya no te importo.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Yo estoy cansada de escuchar la cantaleta de mi novio: 'Esta semana te estuviste viendo con tus amigas todas las tardes. Veo que ellas te importan más que yo. ¡Insensible!'",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Orden",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Obvio no!",
+                            "body": "Él lo que me está pidiendo es un poco de atención y compañía."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "second": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Creo que tienes razón!",
+                            "body": "Él lo que me está pidiendo es un poco de atención y compañía."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "three": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Obvio no!",
+                            "body": "Él lo que me está pidiendo es un poco de atención y compañía."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "9": {
+            "person": "Arnobi Melo",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Uff creo que mi mamá está decepcionada de mí. Anoche me dijo: 'Estoy cansada de hacerte todo. Ya es hora de que madures y te hagas cargo de tus cosas'.",
+                "intro": "¿Cómo reaccionarían ustedes en el caso de Arnobi?",
+                "options": {
+                    "first": {
+                        "title": "Ya sé que soy un inmaduro, no me lo tienes que repetir.",
+                        "retroalimentacion": {
+                            "title": "¡Oshhh!",
+                            "body": "Este tipo de actitudes defensivas hacen que nadie se nos quiera acercar y cierra cualquier posibilidad de diálogo."
+                        }
+                    },
+                    "second": {
+                        "title": "Es culpa tuya por enseñarme a depender de ti.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Sé que estás cansada de mi actitud y esperas más de mí.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Uff creo que mi mamá está decepcionada de mí. Anoche me dijo: 'Estoy cansada de hacerte todo. Ya es hora de que madures y te hagas cargo de tus cosas'.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Me cuesta aceptarlo pero es verdad!",
+                            "body": "Mi mamá necesita que me haga responsable de mis cosas."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "second": {
+                        "title": "Orden",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso! ",
+                            "body": "Mi mamá lo que necesita es que me haga responsable de mis cosas."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "three": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso!",
+                            "body": "Mi mamá lo que necesita es que me haga responsable de mis cosas."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "first",
+                    "pounts": 50
+                }
+            }
+        },
+        "10": {
+            "person": "Yesenia Pulido",
+            "a": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Don Epaminondas estaba peleando feo con su hija. Le dijo: 'Estoy hasta la coronilla de decirle que despierte. Esas facturas que le di no se pueden perder así como así'.",
+                "intro": "Yesenia nos está escribiendo. ¿Qué opinan?",
+                "options": {
+                    "first": {
+                        "title": "Ya sé que soy despistada, ya sé.",
+                        "retroalimentacion": {
+                            "title": "¡Oshhh!",
+                            "body": "Este tipo de actitudes defensivas hacen que nadie se nos quiera acercar y cierra cualquier posibilidad de diálogo."
+                        }
+                    },
+                    "second": {
+                        "title": "A mi no me eche la culpa de su desorden.",
+                        "retroalimentacion": {
+                            "title": "¡Ten cuidado!",
+                            "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
+                        }
+                    },
+                    "three": {
+                        "title": "Lo siento. Tengo la cabeza en otro lugar.",
+                        "retroalimentacion": {
+                            "title": "¡Nada mal!",
+                            "body": "Si tratas de describir tu punto de vista y lo que sientes, invitas a que los demás sean sinceros. Es otra manera de evitar malentendidos."
+                        }
+                    },
+                    "correct": "three",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner y Hermanos",
+                "body": "Don Epaminondas estaba peleando feo con su hija. Le dijo: 'Estoy hasta la coronilla de decirle que despierte. Esas facturas que le di no se pueden perder así como así'.",
+                "intro": "¿Cuál es la necesidad que quiere expresar?",
+                "options": {
+                    "first": {
+                        "title": "Responsabilidad",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡Claro!",
+                            "body": "Don Epaminondas solo quería que su hija le respondiera por las facturas que le entregó."
+                        },
+                        "feedback": "¡Buena! Nos han recomendado y ahora tenemos seguidores nuevos."
+                    },
+                    "second": {
+                        "title": "Atención",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso!",
+                            "body": "Don Epaminondas solo quería que su hija se responsabilizara por las facturas que le entregó."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "three": {
+                        "title": "Diversión",
+                        "body": "",
+                        "retroalimentacion": {
+                            "title": "¡No creo que sea eso!",
+                            "body": "Me siento nervioso y ansioso por no saber si alcanzaré a terminar. También siento enojo porque no me gusta esa presión del tiempo aunque también me siento entusiasmado por estar aprendiendo cosas nuevas."
+                        },
+                        "feedback": "Esta vez no ganamos seguidores pero así vamos aprendiendo cómo entender a los demás."
+                    },
+                    "correct": "first",
+                    "pounts": 50
+                }
+            }
+        }
+    },
+    "feedback": {
+        "success": {
+            "title": "¡Que bien!",
+            "body": "¡Lo logramos! Hemos conseguido los tres mil quinientos seguidores que esperábamos. No podemos parar ahora. ¿Cuál será nuestro próximo reto?"
+        },
+        "warning": {
+            "title": "Oh!",
+            "body": "Por poco lo conseguimos. No es momento de desmotivarnos, volvámoslo a intentar. Seguro esta vez si lo conseguimos. "
+        }
+    },
+    "tutorial": {
+        "1": {
+            "a": {
+                "intro": false
+            },
+            "b": {
+                "intro-luisa": {
+                    "body": "¡Se los dije! Volvimos tendencia la etiqueta #InterferenciaConvivencia, donde hablamos sobre las frases que hemos escuchado y siempre terminan en discusión."
+                }
+            }
+        },
+        "2": {
+            "a": {
+                "intro": "Bah… ¿Y eso para qué nos sirve? Queremos saber es por qué nuestros amigos no quieren hablar con nosotros.",
+                "background-color": "background-dialog-crem",
+                "styled-title": "text-body-dialog-blue",
+                "button": "SIGUIENTE"
+            },
+            "b": {
+                "intro-luisa": {
+                    "body": "A ver pelaos, siempre que los veo están peleando por cualquier cosa y no se dan cuenta que eso sucede porque van soltando palabras a la loca, sin pensar en consecuencias."
+                }
+            }
+        },
+        "3": {
+            "a": {
+                "intro": "¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido.",
+                "button": "SIGUIENTE"
+            },
+            "b": {
+                "intro-luisa": {
+                    "body": "Si ve como me da la razón. Mire lo que acaba de decir: ¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido."
+                },
+                "styled-footer-text": "text-fotter-dialog-blue"
+            }
+        },
+        "4": {
+            "person": "Karol Cáceres",
+            "a": {
+                "header": "Hola Yeiner",
+                "body": "¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido.",
+                "intro": "mmm...",
+                "options": {
+                    "first": {
+                        "title": "Me lo tomaría personal y diría que sí soy eso.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Como ven, nosotros no estamos acostumbrados a expresar lo que necesitamos y sentimos. Casi siempre nos expresamos a través de juicios y opiniones, haciendo que los otros lo perciban como críticas y se sientan mal."
+                        }
+                    },
+                    "second": {
+                        "title": "Me defendería y le echaría la culpa a quien me dijo eso.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Como ven, nosotros no estamos acostumbrados a expresar lo que necesitamos y sentimos. Casi siempre nos expresamos a través de juicios y opiniones, haciendo que los otros lo perciban como críticas y se sientan mal."
+                        }
+                    },
+                    "three": {
+                        "title": "Trataría de descubrir lo que siente y necesita la otra persona.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Como ven, nosotros no estamos acostumbrados a expresar lo que necesitamos y sentimos. Casi siempre nos expresamos a través de juicios y opiniones, haciendo que los otros lo perciban como críticas y se sientan mal."
+                        }
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            },
+            "b": {
+                "header": "Hola Yeiner",
+                "body": "¡Ay no Yeiner, que pereza! Usted entre más viejo, más aburrido.",
+                "intro": "¡Uy, Yeiner! Quien lo ve todo distraído y le está prestando atención a todo lo que uno dice. Pero entonces según usted, ¿Cuál es la necesidad que nosotros queríamos expresar?",
+                "options": {
+                    "first": {
+                        "title": "Atención",
+                        "body": "Optimismo, asombro.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir."
+                        },
+                        "feedback": "¿Vieron? Casi siempre, las personas buscan comunicar lo que necesitan y desean, solo que lo hacen a través de juicios y críticas... es posible que no conozcan otra manera de hacerlo."
+                    },
+                    "second": {
+                        "title": "Diversión",
+                        "body": "Repugnancia, asco.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir."
+                        },
+                        "feedback": "¿Vieron? Casi siempre, las personas buscan comunicar lo que necesitan y desean, solo que lo hacen a través de juicios y críticas... es posible que no conozcan otra manera de hacerlo."
+                    },
+                    "three": {
+                        "title": "Descanso",
+                        "body": "Frustración, amargura.",
+                        "retroalimentacion": {
+                            "title": "",
+                            "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir. "
+                        },
+                        "feedback": "¿Vieron? Casi siempre, las personas buscan comunicar lo que necesitan y desean, solo que lo hacen a través de juicios y críticas... es posible que no conozcan otra manera de hacerlo."
+                    },
+                    "correct": "second",
+                    "pounts": 50
+                }
+            }
+        },
+        "5": {
+            "a": {
+                "intro": "¡Ahhh! ¿O sea que tantas peleas con amigos han sido solo malentendidos?",
+                "button": "SIGUIENTE"
+            },
+            "b": {
+                "intro-luisa": {
+                    "body": "¡Es posible pelaos! Por eso si descubrimos las necesidades ocultas en las palabras que nos dicen los demás, nos quitaremos varios dolores de cabeza y peleas innecesarias."
+                }
+            }
+        },
+        "6": {
+            "a": {
+                "intro": "Entonces juguemos #InterferenciaConvivencia, a ver si nos podemos hacer entender mejor",
+                "button": "SIGUIENTE"
+            },
+            "b": {
+                "intro-luisa": {
+                    "body": "Está bien. Comencemos"
+                },
+                "button": "CONTINUAR"
+            }
+        }
+    }
+}

@@ -1,0 +1,223 @@
+.text-title-dialog-blue {
+  line-height: 22px;
+  font-size: 25px;
+  font-family: "Roboto-bold";
+  color: var(--azul-secd);
+  margin-bottom: 10px;
+}
+.text-body-dialog-blue {
+  line-height: 20px;
+  font-size: 20px;
+  font-family: "Roboto-regular";
+  color: var(--azul-secd);
+  margin-bottom: 12px;
+}
+.text-fotter-dialog-blue {
+  display: block;
+  line-height: 20px;
+  text-align: justify;
+  font-family: "Roboto-bold";
+  font-size: 20px;
+  color: var(--azul-secd);
+  margin-top: 5px;
+}
+.text-title-dialog-white {
+  line-height: 20px;
+  font-family: "Roboto-regular";
+  font-size: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+.background-dialog-crem {
+  background-color: var(--crema);
+}
+.background-dialog-green-light {
+  background-color: var(--verde-ppal);
+}
+.box-shadow-background-dialog-left {
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.5);
+}
+.box-shadow-background-dialog-right {
+  box-shadow: -4px 4px rgba(0, 0, 0, 0.5);
+}
+.dialog-right {
+  width: 100%;
+  padding: 5% 5% 10% 5%;
+  left: -5%;
+  bottom: 100%;
+}
+.dialog-left {
+  width: 100%;
+  padding: 5% 5% 10% 5%;
+  right: -5%;
+  bottom: 100%;
+}
+.dialog-left-medium {
+  width: 100%;
+  /* height: 100px; */
+  padding: 5% 5% 10% 5%;
+  right: -5%;
+  bottom: 100%;
+}
+.dialog-left-basic {
+  width: 80%;
+  /* height: 100px; */
+  padding: 5% 5% 10% 5%;
+  right: -10%;
+  bottom: 100%;
+}
+.dialog-right-basic {
+  width: 80%;
+  /* height: 100px; */
+  padding: 5% 5% 10% 5%;
+  left: -10%;
+  bottom: 95%;
+}
+.triangule-left {
+  margin-left: 20%;
+  border-top: 50px solid white;
+  border-left: 50px solid transparent;
+  border-right: 0px solid white;
+  bottom: -50px;
+}
+.triangule-right {
+  right: 15%;
+  border-top: 50px solid white;
+  border-left: 0px solid white;
+  border-right: 50px solid transparent;
+  bottom: -50px;
+}
+.btn-next {
+  background-color: white;
+  border-radius: 99px;
+  padding: 0px 10px;
+  color: var(--verde-secd);
+  font-family: "Bungee";
+  right: 10px;
+  bottom: 10px;
+}
+@media (max-width: 1024px) {
+  .dialog-right {
+    width: 135%;
+    padding: 5% 5% 10% 5%;
+    left: -38%;
+  }
+  .dialog-left {
+    width: 150%;
+    right: -55%;
+    bottom: 95%;
+  }
+  .triangule-left {
+    margin-left: 35%;
+    border-top: 45px solid white;
+    border-left: 30px solid transparent;
+    bottom: -45px;
+  }
+  .triangule-right {
+    right: 25%;
+    border-top: 45px solid white;
+    border-left: 0px solid white;
+    border-right: 30px solid transparent;
+    bottom: -45px;
+  }
+  .dialog-left-medium {
+    width: 120%;
+    padding: 5% 5% 10% 5%;
+    right: -25%;
+    bottom: 90%;
+  }
+  .dialog-left-basic {
+    width: 100%;
+    padding: 5%;
+    right: -2%;
+    bottom: 100%;
+  }
+}
+@media (max-width: 720px) {
+  .dialog-left {
+    width: 210%;
+    right: -120%;
+  }
+  .triangule-left {
+    margin-left: 9%;
+    border-top: 40px solid white;
+    bottom: -40px;
+  }
+  .dialog-right {
+    width: 185%;
+    padding: 5% 5% 10% 5%;
+    left: -90%;
+  }
+  .triangule-right {
+    right: 10%;
+    border-top: 40px solid white;
+    border-left: 0px solid white;
+    border-right: 30px solid transparent;
+    bottom: -40px;
+  }
+  .dialog-left-medium {
+    width: 195%;
+    padding: 5% 5% 10% 5%;
+    right: -100%;
+    bottom: 100%;
+  }
+  .dialog-left-basic {
+    width: 130%;
+    right: -40%;
+  }
+  .dialog-right-basic {
+    width: 120%;
+    left: -32%;
+  }
+}
+@media (max-width: 420px) {
+  .text-title-dialog-blue {
+    font-size: 20px;
+  }
+  .text-body-dialog-blue {
+    font-size: 15px;
+  }
+  .text-fotter-dialog-blue {
+    font-size: 15px;
+  }
+  .text-title-dialog-white {
+    font-size: 20px;
+  }
+  .dialog-left {
+    width: 290%;
+    right: -200%;
+  }
+  .triangule-left {
+    margin-left: 2%;
+    border-top: 20px solid white;
+    bottom: -20px;
+  }
+  .btn-next {
+    bottom: 5px;
+  }
+  .dialog-right {
+    width: 230%;
+    padding: 5% 5% 10% 5%;
+    left: -135%;
+  }
+  .triangule-right {
+    right: 5%;
+    border-top: 30px solid white;
+    border-right: 20px solid transparent;
+    bottom: -30px;
+  }
+  .dialog-left-medium {
+    width: 270%;
+    padding: 5% 5% 10% 5%;
+    right: -175%;
+    bottom: 90%;
+  }
+  .dialog-left-basic {
+    width: 170%;
+    right: -80%;
+  }
+  .dialog-right-basic {
+    width: 150%;
+    left: -58%;
+  }
+}
