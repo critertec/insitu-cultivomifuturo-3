@@ -6,8 +6,8 @@
   margin-bottom: 10px;
 }
 .text-body-dialog-blue {
-  line-height: 20px;
-  font-size: 20px;
+  line-height: 25px;
+  font-size: 18px;
   font-family: "Roboto-regular";
   color: var(--azul-secd);
   margin-bottom: 12px;
@@ -17,14 +17,14 @@
   line-height: 20px;
   text-align: justify;
   font-family: "Roboto-bold";
-  font-size: 20px;
+  font-size: 18px;
   color: var(--azul-secd);
   margin-top: 5px;
 }
 .text-title-dialog-white {
-  line-height: 20px;
+  line-height: 25px;
   font-family: "Roboto-regular";
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   margin-bottom: 10px;
 }

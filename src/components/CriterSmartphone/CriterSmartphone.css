@@ -171,10 +171,9 @@
   cursor: pointer;
 }
 .option_label {
-  margin-left: 20px;
+  margin-left: 12px;
   color: var(--azul-psjes);
-  font: 22px Roboto;
-  font-weight: bold;
+  font: 17px Roboto;
 }
 
 .second-container {

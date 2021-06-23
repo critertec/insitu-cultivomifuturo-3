@@ -2,7 +2,7 @@
     "info": {
         "title": "Interferencia Convivencia",
         "sub-title": "Instrucciones",
-        "body-1": " los hermanos de Andrés se les dificulta hacer nuevos amigos, debido a que no cuentan con una habilidad llamada 'empatía', , esto trae como consecuencia que ellos no logren entender y comprender las necesidades de las personas con las que interactúan, por el contrario, los hermanos de Andrés contestan a la defensiva y de manera impulsiva, lo cual conlleva a tener problemas con su comunicación y convivencia.",
+        "body-1": " Los hermanos de Andrés se les dificulta hacer nuevos amigos, debido a que no cuentan con una habilidad llamada 'empatía', , esto trae como consecuencia que ellos no logren entender y comprender las necesidades de las personas con las que interactúan, por el contrario, los hermanos de Andrés contestan a la defensiva y de manera impulsiva, lo cual conlleva a tener problemas con su comunicación y convivencia.",
         "placeholder": "PLACEHOLDER IMG EXPLICATIVA",
         "body-2": "Por esa razón, Andrés ha convocado a sus amigos, con el objetivo de compartir algunas situaciones, expresadas mediante frases utilizadas en su comunicación cotidiana, las cuales refieren situaciones problema o discusiones con sus amigos, provocando una suerte de 'Interferencia en la Convivencia'; Al avanzar en la elección de las opciones más apropiadas, podrá enseñarles a sus hermanos a comunicarse de manera asertiva.",
         "body-3": "Ayúdalos a analizar los mensajes que han recibido para identificar las mejores maneras de reaccionar y las verdaderas necesidades que se quieren expresar."
@@ -11,7 +11,7 @@
         "1": {
             "person": "Carol Cáceres",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "¡Ay no Andrés, que pereza! Usted entre más viejo, más aburrido.",
                 "intro": "¿Cómo reaccionarían ustedes si alguien les dijera eso?",
                 "options": {
@@ -41,8 +41,8 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
-                "body": "¡¡Ay no Andrés, que pereza! Usted entre más viejo, más aburrido.",
+                "header": "Hola Andrés y Hermanos",
+                "body": "¡Ay no Andrés, que pereza! Usted entre más viejo, más aburrido.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
                     "first": {
@@ -81,7 +81,7 @@
         "2": {
             "person": "Nataly García",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Mi mamá me dice seguido: -Me da mucho mal genio que deje cosas sobre la mesa, justo cuando vamos a comer. ¡Usted es muy desconsiderada!",
                 "intro": "Miren lo que escribió Nataly. ¿Cómo reaccionarían ustedes si alguien les dijera eso?",
                 "options": {
@@ -111,7 +111,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Mi mamá me dice seguido: -Me da mucho mal genio que deje cosas sobre la mesa, justo cuando vamos a comer. ¡Usted es muy desconsiderada!",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -137,7 +137,7 @@
                         "title": "Atención",
                         "body": "",
                         "retroalimentacion": {
-                            "title": "¡¡Nop!",
+                            "title": "¡Nop!",
                             "body": "Mi mamá quería orden en la mesa para poder comer tranquila."
                         },
                         "feedback": "Esta vez no sumamos más amigos, pero así vamos aprendiendo cómo entender a los demás."
@@ -219,7 +219,7 @@
         "4": {
             "person": "Camilo Torres",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Oiga la gente si pelea por bobadas. Yo estoy discutiendo con una amiga porque me dijo: '¡Inmaduro! Me molesta que no sea capaz de cumplir lo que promete'.",
                 "intro": "Miren. Camilo nos cuenta su historia. ¿Cómo reaccionarían?",
                 "options": {
@@ -249,7 +249,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Oiga la gente si pelea por bobadas. Yo estoy discutiendo con una amiga porque me dijo: '¡Inmaduro! Me molesta que no sea capaz de cumplir lo que promete'.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -288,7 +288,7 @@
         "5": {
             "person": "Gustavo Salamanca",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Esta mañana me dijo mi sobrino: ¡Desconsiderado! No me aguanto más la bulla que hace en las noches. No pudimos dormir.",
                 "intro": "Nos escribe Gustavo. ¿Qué harían ustedes?",
                 "options": {
@@ -318,7 +318,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Esta mañana me dijo mi sobrino: ¡Desconsiderado! No me aguanto más la bulla que hace en las noches. No pudimos dormir.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -357,7 +357,7 @@
         "6": {
             "person": "Ximena Tapia",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "¡Qué fastidio! Mi novio me trata de perezosa porque no le digo 'sí' a los planes que inventa con sus amigos.",
                 "intro": "Miren lo que dice Ximena. ¿Qué harían ustedes?",
                 "options": {
@@ -387,7 +387,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "¡Qué fastidio! Mi novio me trata de perezosa porque no le digo 'sí' a los planes que inventa con sus amigos.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -426,26 +426,26 @@
         "7": {
             "person": "Pedro Carmona",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Yo creo que la embarré con mi novia. El lunes me escribió: 'Esperaba que por lo menos me llamaras en mi cumpleaños, pero veo que tenías mejores cosas que hacer'.",
                 "intro": "¡Pedro nos ha escrito! ¿Qué opinan?",
                 "options": {
                     "first": {
-                        "title": "últimamente ando muy ocupado. Además, tú también has hecho lo mismo en fechas especiales.",
+                        "title": "Últimamente ando muy ocupado. Además, tú también has hecho lo mismo en fechas especiales.",
                         "retroalimentacion": {
                             "title": "¡Pilas!",
                             "body": "Si nos echamos la culpa evitaremos posibles discusiones, pero cargaremos sentimientos malucos de decepción y ansiedad por algo que tal vez no sea cierto."
                         }
                     },
                     "second": {
-                        "title": "No recordaba la fecha. Además, no tenía minutos y usted nunca contesta tampoco el celular ni los WhatsApp, que pereza que lo dejen a uno en visto.",
+                        "title": "No tenía minutos y tu nunca contestas el celular, que pereza que lo dejen a uno en visto.",
                         "retroalimentacion": {
                             "title": "¡Cuidado!",
                             "body": "Si contraatacamos, comenzaremos una discusión cargada de sentimientos de disgusto y enojo que pueden terminar en violencia."
                         }
                     },
                     "three": {
-                        "title": "Sé que esperaba mi llamada, pero lo olvidé por completo. No es que para mí no sea importante ni tenga mejores cosas que hacer. Pero entiendo cómo se siente eso, a veces me pasa lo mismo cuando olvidan fechas que para mí son importantes. ",
+                        "title": "Lo olvidé por completo. No es que para mí no sea importante. Entiendo cómo se siente eso, a mi me pasa lo mismo cuando olvidan fechas importantes para mí.",
                         "retroalimentacion": {
                             "title": "¡Nada mal!",
                             "body": "Si dicen lo que piensan y sienten, además si intentan comprender lo que el otro siente, servirá para que los otros actúen de igual forma, es otra manera de evitar peleas o discusione"
@@ -456,7 +456,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Yo creo que la embarré con mi novia. El lunes me escribió: 'Esperaba que por lo menos me llamaras en mi cumpleaños, pero veo que tenías mejores cosas que hacer'.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -495,7 +495,7 @@
         "8": {
             "person": "Lina Monsalve",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Yo estoy cansada de escuchar la cantaleta de mi novio: 'Esta semana te estuviste viendo con tus amigas todas las tardes. Veo que ellas te importan más que yo. ¡Insensible!'",
                 "intro": "Aquí está la historia de Lina. ¿Cómo reaccionarían ustedes?",
                 "options": {
@@ -514,7 +514,7 @@
                         }
                     },
                     "three": {
-                        "title": "Esa actitud me hace pensar que ya no Le importo. Sé que le molesta que haga eso, pero usted hace lo mismo, cuando le digo lo pienso no me presta atención y esos comportamientos hacen que piense y sienta que ya no le importo.",
+                        "title": "Esa actitud me hace sentir y pensar que ya no le importo. Sé que eso le molesta, pero usted hace lo mismo, cuando le digo lo que pienso no me presta atención.",
                         "retroalimentacion": {
                             "title": "¡Nada mal!",
                             "body": "Si tratan de describir su punto de vista y lo que sienten, invitan a que los demás sean sinceros. Es otra manera de evitar malentendidos."
@@ -525,7 +525,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Yo estoy cansada de escuchar la cantaleta de mi novio: 'Esta semana te estuviste viendo con tus amigas todas las tardes. Veo que ellas te importan más que yo. ¡Insensible!'",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -564,7 +564,7 @@
         "9": {
             "person": "Juan Melo",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "¡Ay! creo que mi mamá está decepcionada de mí. Anoche me dijo: 'Estoy cansada de hacerte todo. Ya es hora de que madures y te hagas cargo de tus cosas'.",
                 "intro": "¿Cómo reaccionarían ustedes en el caso de Juan?",
                 "options": {
@@ -594,7 +594,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "¡Ay! creo que mi mamá está decepcionada de mí. Anoche me dijo: 'Estoy cansada de hacerte todo. Ya es hora de que madures y te hagas cargo de tus cosas'.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -633,7 +633,7 @@
         "10": {
             "person": "Juana Pulido",
             "a": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Don Hernando estaba peleando feo con su hija. Le dijo: 'Estoy hasta la coronilla de decirle que despierte. Esas facturas que le di no se pueden perder, así como así'.",
                 "intro": "Juana nos está escribiendo. ¿Qué opinan?",
                 "options": {
@@ -663,7 +663,7 @@
                 }
             },
             "b": {
-                "header": "Hola Andres y Hermanos",
+                "header": "Hola Andrés y Hermanos",
                 "body": "Don Hernando estaba peleando feo con su hija. Le dijo: 'Estoy hasta la coronilla de decirle que despierte. Esas facturas que le di no se pueden perder, así como así'.",
                 "intro": "¿Cuál es la necesidad que quiere expresar?",
                 "options": {
@@ -717,7 +717,7 @@
             },
             "b": {
                 "intro-luisa": {
-                    "body": "¡Se los dije! ahora la mayoría de nosotros dicen 'Interferencia en la Convivencia', y compartimos las frases que hemos escuchado, las cuales siempre terminan en discusión."
+                    "body": "¡Se los dije! Ahora la mayoría de nosotros dice 'Interferencia en la Convivencia', y compartimos las frases que hemos escuchado, las cuales siempre terminan en discusión."
                 }
             }
         },
@@ -730,7 +730,7 @@
             },
             "b": {
                 "intro-luisa": {
-                    "body": "¡Miren!, siempre que los veo están peleando por cualquier cosa, llevándole la contraria a los demás, y no se dan cuenta que eso sucede porque van hablando sin pensar en las consecuencias, como dice el dicho 'No piensan antes de hablar'."
+                    "body": "¡Miren!, siempre que los veo están peleando por cualquier cosa, llevándole la contraria a los demás, y no se dan cuenta que eso sucede porque van hablando sin pensar en las consecuencias. Como dice el dicho: 'No piensan antes de hablar'."
                 }
             }
         },
@@ -749,29 +749,29 @@
         "4": {
             "person": "Carol Cáceres",
             "a": {
-                "header": "Hola Andres",
-                "body": "¡Ay no Andres, que pereza! Usted entre más viejo, más aburrido.",
+                "header": "Hola Andrés",
+                "body": "¡Ay no Andrés, que pereza! Usted entre más viejo, más aburrido.",
                 "intro": "¿Cómo reaccionarían ustedes si alguien les dijera eso?",
                 "options": {
                     "first": {
                         "title": "Me lo tomaría personal y diría que sí soy eso.",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Como ven, a la mayoría de nosotros, nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo, eso es porque nos acostumbramos a responder con base en juicios y opiniones personales, sin embargo, eso está mal pelaos, eso es criticar, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o peor aún, que no nos vuelvan hablar porque pasamos por groseros. "
+                            "body": "A la mayoría de nosotros nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo. Nos acostumbramos a responder con base en juicios y opiniones personales, y eso está mal pelaos, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o que no nos vuelvan hablar porque pasamos por groseros."
                         }
                     },
                     "second": {
                         "title": "Me defendería y le echaría la culpa a quien me dijo eso.",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Como ven, a la mayoría de nosotros, nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo, eso es porque nos acostumbramos a responder con base en juicios y opiniones personales, sin embargo, eso está mal pelaos, eso es criticar, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o peor aún, que no nos vuelvan hablar porque pasamos por groseros. "
+                            "body": "A la mayoría de nosotros nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo. Nos acostumbramos a responder con base en juicios y opiniones personales, y eso está mal pelaos, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o que no nos vuelvan hablar porque pasamos por groseros."
                         }
                     },
                     "three": {
                         "title": "Trataría de descubrir lo que siente y necesita la otra persona.",
                         "retroalimentacion": {
                             "title": "",
-                            "body": "Como ven, a la mayoría de nosotros, nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo, eso es porque nos acostumbramos a responder con base en juicios y opiniones personales, sin embargo, eso está mal pelaos, eso es criticar, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o peor aún, que no nos vuelvan hablar porque pasamos por groseros."
+                            "body": "A la mayoría de nosotros nos cuesta expresar lo que necesitamos, pensamos o sentimos; pero más difícil aún, es reconocer lo que el otro está sintiendo. Nos acostumbramos a responder con base en juicios y opiniones personales, y eso está mal pelaos, hace que las demás personas se sientan mal y no vuelvan a expresar lo que sienten, o que no nos vuelvan hablar porque pasamos por groseros."
                         }
                     },
                     "correct": "second",
@@ -779,9 +779,9 @@
                 }
             },
             "b": {
-                "header": "Hola Andres",
-                "body": "¡Ay no Andres, que pereza! Usted entre más viejo, más aburrido.",
-                "intro": "¡Uy, Andrés! Quien lo ve todo distraído y le está prestando atención a todo lo que uno dice. Pero entonces según usted, ¿Cuál es la necesidad que nosotros queríamos expresar?",
+                "header": "Hola Andrés",
+                "body": "¡Ay no Andrés, que pereza! Usted entre más viejo, más aburrido.",
+                "intro": "¡Uy, Andrés! Quien lo ve todo distraído y le está prestando atención a todo lo que uno dice. Pero entonces, según usted, ¿Cuál es la necesidad que nosotros queríamos expresar?",
                 "options": {
                     "first": {
                         "title": "Atención",
@@ -790,7 +790,7 @@
                             "title": "",
                             "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir."
                         },
-                        "feedback": "¿Vieron?, no es según yo, si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente las personas buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo. "
+                        "feedback": "¿Vieron? Si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo. "
                     },
                     "second": {
                         "title": "Diversión",
@@ -799,7 +799,7 @@
                             "title": "",
                             "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir."
                         },
-                        "feedback": "¿Vieron?, no es según yo, si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente las personas buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo. "
+                        "feedback": "¿Vieron? Si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo."
                     },
                     "three": {
                         "title": "Descanso",
@@ -808,7 +808,7 @@
                             "title": "",
                             "body": "Una misma situación puede generar emociones distintas, como en el caso del hermano de Paola que siente alegría cuando no lo dejan salir. "
                         },
-                        "feedback": "¿Vieron?, no es según yo, si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente las personas buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo."
+                        "feedback": "¿Vieron? Si los escucha cualquier otra persona seguramente les diría que contestan mal o de forma grosera. Generalmente buscamos comunicarnos y expresarnos según nuestras necesidades, el problema es que, aunque sabemos qué queremos, no encontramos el camino o palabras adecuadas para decirlo y terminamos contestando a través de juicios y críticas... lo cual es normal, cuando no conocemos otra manera de hacerlo. "
                     },
                     "correct": "second",
                     "pounts": 50

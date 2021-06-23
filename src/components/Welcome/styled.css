@@ -58,7 +58,8 @@
 }
 .close-btn {
   color: var(--verde-ppal);
-  font-size: 28px;
+  font-size: 40px;
+  font-weight: bold;
   position: absolute;
   right: 30px;
   top: 10px;
